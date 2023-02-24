@@ -1,2 +1,2 @@
-What is the difference between a merge and a rebase?
-rebase rewrites main with your changes instead of incorporating your changes into the current main
+What is a remote repository?
+previous versions of your project stored on a server
